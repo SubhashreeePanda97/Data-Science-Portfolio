@@ -14,4 +14,3 @@ Aspiring Data Scientist with experience in Python, SQL, Tableau, Excel and Machi
 
 ## Projects
 - Student Performance Prediction
-- S&P 500 Stock Analysis
